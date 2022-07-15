@@ -6,7 +6,7 @@
                 <Icon type="ios-loading" size=30 class="demo-spin-icon-load"></Icon>
                 <div style="margin-top: 10px">登录中...</div>
             </Spin>
-            <p style="margin-bottom: 30px">西南管道电子签名系统</p>
+            <p style="margin-bottom: 30px"></p>
             <Form  :model="form" >
                 <FormItem prop="userName">
                     <span class="ios-person"></span>
@@ -28,7 +28,7 @@
             </Form>
         </div>
         <div class="footer-banner">
-            <p>Copyright © 2018&nbsp; 北京中油瑞飞信息技术有限责任成都分公司 &nbsp;All Rights Reserved.</p>
+            <p></p>
         </div>
     </div>
 </template>
